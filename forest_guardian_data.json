@@ -1,0 +1,18 @@
+{
+    "session_current": 1,
+    "completed_periods": 0,
+    "unlocked_text_index": 1,
+    "completed_texts_total": 0,
+    "weekly_counter": 0,
+    "last_session_time": null,
+    "last_successful_session": 0,
+    "current_session_status": "pending",
+    "current_session_number": 1,
+    "session_history": {},
+    "session_texts": {},
+    "settings": {
+        "font_size": 24,
+        "brightness": 1.0,
+        "theme_mode": "gece"
+    }
+}
