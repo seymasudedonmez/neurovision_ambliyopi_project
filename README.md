@@ -1,13 +1,13 @@
 # NeuroVision Ambliyopi - Göz Egzersizi Uygulaması
 
-NeuroVision Ambliyopi, ambliyopi tanılı 6-9 yaş aralığındaki çocukların görsel algılarını ve okuma becerilerine amacıyla tasarlanmış, seans bazlı bir göz egzersizi uygulamasıdır. Uygulama, her biri özenle hazırlanmış 72 adet okuma parçası ve göz tembelliğine egzersizleri içermekte ve düzenli kullanımla sürdürülebilir olmayı hedeflemektedir.
+NeuroVision Ambliyopi, ambliyopi tanılı 6-9 yaş aralığındaki çocukların görsel algılarının ve okuma becerilerinin geliştirilmesinde sürdürülebilirlik sağlamak amacıyla tasarlanmış, seans bazlı bir göz egzersizi uygulamasıdır. Uygulama, 72 adet okuma parçası ve göz tembelliğine yönelik egzersizleri içermekte ve düzenli kullanımla sürdürülebilir olmayı hedeflemektedir.
 
 ## Özellikler
 
 - **72 Seviye Okuma Parçası**: Her biri farklı temalarda hazırlanmış, çocuklara yönelik eğitici metinler.
 - **Akıllı Seans Sistemi**: Her seans 2 metinden + egzersizden oluşur, toplamda 18 seans içerir.
 - **Haftalık Takip**: Haftada 3 seans hedefi ile düzenli egzersiz alışkanlığını sürdürebilmeyi hedefler.
-- **Kullanıcı Dostu Arayüz**: Ayarlanabilir yazı boyutu, parlaklık ve gece/gündüz teması.
+- **Kullanıcı Dostu Arayüz**: Ayarlanabilir yazı boyutu, parlaklık ve gece/gündüz teması sunar.
 - **İlerleme Kaydı**: Kullanıcının tamamladığı metinler, seanslar ve haftalık istatistikler kaydedilir.
 - **Türkçe Dil Desteği**: Tüm içerikler Türkçe olarak hazırlanmıştır.
 
@@ -26,3 +26,5 @@ pip install customtkinter pygame Pillow
 python main.py
 
 Bu README.md dosyası, projeyi açıklamaktadır.
+
+© Tüm Hakları Saklıdır. 
